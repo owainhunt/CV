@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN"
+"http://www.w3.org/TR/2001/REC-MathML2-20010221/dtd/xhtml-math11-f.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Latest</title>
+
+  <style type="text/css">
+/* +++ master +++ */
+/* html elements */
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    overflow:hidden;
+    background-color: #f2f2f2;
+    color: #3c3c3c;
+    font-size: 62.5%;
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    color: #308bd8;
+    text-decoration:none;
+}
+a:hover {
+    text-decoration: underline;
+}
+/* headings */
+h1, h2 {
+    line-height:1.2em;
+    margin-top:32px;
+    margin-bottom:12px;
+}
+h1:first-child {
+    margin-top:0;
+}
+h3, h4, h5, h6 {
+    margin-top:12px;
+    margin-bottom:6px;
+}
+h5, h6 {
+    font-size:0.9em;
+    line-height:1.0em;
+    margin-bottom:0;
+}
+/* end of headings */
+p {
+    margin:0 0 0 0;
+}
+p:last-child {
+    margin-bottom:0;
+}
+hr {
+    width: 100%;
+    margin: 3em auto;
+    border: 0;
+    color: #eee;
+    background-color: #ccc;
+    height: 1px;
+    -webkit-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.75);
+}
+/* lists */
+ol {
+    list-style: outside decimal;
+}
+ul {
+    list-style: outside disc;
+}
+ol, ul {
+    padding-left:0;
+    margin-bottom:24px;
+}
+ol li {
+    margin-bottom:16px;
+    margin-left:28px;
+}
+ul li {
+    margin-bottom:16px;
+    margin-left:16px;
+}
+li:last-child {
+    margin-bottom:0;
+}
+li > p {
+    margin-bottom:12px;
+}
+li > ol, li > ul {
+    margin-top: 16px !important;
+    padding-left:16px;
+}
+dl {
+    margin-bottom:24px;
+}
+dl dt {
+    font-weight:bold;
+    margin-bottom:8px;
+}
+dl dd {
+    margin-left:0;
+    margin-bottom:12px;
+}
+dl dd:last-child, dl:last-child {
+    margin-bottom:0;
+}
+/* end of lists */
+pre {
+    white-space: pre-wrap;
+    width: 96%;
+    margin-bottom: 24px;
+    overflow: hidden;
+    padding: 3px 10px;
+    -webkit-border-radius: 3px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+}
+code {
+    white-space: nowrap;
+    font-size: 1.1em;
+    padding: 2px;
+    -webkit-border-radius: 3px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+}
+pre code {
+    white-space: pre-wrap;
+    border: none;
+    padding: 0;
+    background-color: transparent;
+    -webkit-border-radius: 0;
+}
+blockquote {
+    margin-left: 0;
+    margin-right: auto;
+	margin-bottom: 24px;
+    width: 96%;
+    padding: 0 10px;
+    border-left: 3px solid #ddd;
+    color: #777;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-spacing: 0;
+}
+table th {
+    padding: 3px 10px;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+table tr {
+}
+table td {
+    padding: 3px 10px;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+figure {
+    display: block;
+    text-align: center;
+}
+img {
+    border: none;
+    margin: 1em auto;
+    max-width: 100%;
+}
+figcaption {
+    font-size: 0.8em;
+    font-style: italic;
+}
+mark {
+    background: #fefec0;
+    padding:1px 3px;
+}
+
+/* unique elements */
+
+#wrapper {
+    position: fixed;
+    width: 99.9%;
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-size: 1.0em;
+}
+#content {
+    width: 610px;
+    margin: 0 auto 0 auto;
+    padding: 30px 0 30px 0;
+    font-family: Helvetica, Palatino, Georgia, serif;
+    font-size: 1.3em;
+    line-height: 1.400000em;
+}
+
+#wrapper::-webkit-scrollbar {
+    width: 8px;
+    height: 10px;
+    -webkit-transition: all .45s ease-in;
+    position: relative;
+}
+#wrapper::-webkit-scrollbar-button:start:decrement, #wrapper::-webkit-scrollbar-button:end:increment {
+    height: 0px;
+    display: block;
+    background-color: transparent;
+}
+#wrapper::-webkit-scrollbar-track-piece {
+    background-color:
+    transparent;
+    -webkit-border-radius: 6px;
+}
+#wrapper::-webkit-scrollbar-thumb:vertical {
+    height: 50px;
+    background-color: #c8c8c8;
+    -webkit-border-radius: 6px;
+    -webkit-transition: all .45s ease-in;
+}
+
+/* classes */
+
+.markdowncitation {
+}
+.footnote {
+    font-size: 0.8em;
+    vertical-align: super;
+}
+.footnotes ol {
+    font-weight: bold;
+}
+.footnotes ol li p {
+    font-weight: normal;
+}
+
+/* custom formatting classes */
+
+.shadow {
+    -webkit-box-shadow: 0 2px 4px #999;
+}
+
+.source {
+    text-align: center;
+    font-size: 0.8em;
+    color: #777;
+    margin: -40px;
+}
+/* --- master --- */
+/* +++ export overrides +++ */
+#wrapper {
+    width: 99.9%;
+}
+#content {
+    width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Mobile support */
+@media only screen and (max-device-width:1024px) {
+    html {
+        overflow: auto;
+    }
+
+    #wrapper {
+        overflow: auto;
+        position: relative;
+    }
+}
+/* --- export overrides --- */
+/* Printing support (Print and export to PDF).
+ * Override all printing colors to match the Light theme.
+ */
+@media print {
+    img, pre, blockquote, table, figure {
+        page-break-inside: avoid;
+    }
+    body {
+        background-color:#fff;
+    }
+    #wrapper {
+        position: static;
+        overflow: hidden;
+        color: #3c3c3c;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .footnotes {
+        page-break-before: always;
+    }
+    #content {
+        margin: 0 auto;
+        padding: 0;
+        width: 98%;
+    }
+    #top-fader, #bottom-fader {
+        display: none;
+    }
+    a {
+        color: #3c3c3c;
+    }
+    hr {
+        color:#ddd;
+        background-color:#ddd;
+        -webkit-box-shadow:0px 1px 0px #ddd;
+    }
+    pre {
+        background-color:transparent;
+        border: 1px solid #ddd;
+    }
+    code {
+        background-color:transparent;
+        border: 1px solid #ddd;
+    }
+    blockquote {
+        border-left: 3px solid #ddd;
+        color: #3c3c3c;
+    }
+    table {
+        border-bottom: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+    }
+    table th {
+        background-color:transparent;
+        border-top: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+    }
+    table td {
+        border-top: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+    }
+    mark {
+        background:transparent;
+        color: #3c3c3c;
+    }
+    .source {
+        color: #3c3c3c;
+    }
+}
+  </style>
+</head>
+<body>
+  <div id="wrapper">
+    <div id="content">
+<h1 id="owainrhunt">Owain R Hunt</h1>
+
+<p>77 Hallam Grange Rise, Sheffield, S10 4BE | 07775 926058 | owainhunt@btinternet.com </p>
+<blockquote>
+
+<p><em>An enthusiastic and hard-working graduate who is equally comfortable working individually or as part of a team. Highly adaptable, excels at performing under pressure, leading and motivating peers to pursue success. Both creative and technically-minded, presenting logical and inventive solutions to any problems which arise. Quick to learn and driven to be successful whatever the challenge.</em></p>
+</blockquote>
+
+<h2 id="education">Education</h2>
+
+<h3 id="sheffieldhallamuniversity">Sheffield Hallam University</h3>
+
+<p><strong>BA (Hons.) Photography, First Class Honours</strong></p>
+
+<h3 id="taptonsecondaryschoolsheffield">Tapton Secondary School, Sheffield</h3>
+
+<p><strong>A-Levels</strong> General Studies A, Psychology B, Maths (Mechanics) C, Theatre Studies C<br/>
+<strong>GCSEs</strong> Seven A*, two B, one C</p>
+
+<h2 id="workexperience">Work Experience</h2>
+
+<h3 id="johnlewisretaildevelopmentsystems">John Lewis Retail Development Systems</h3>
+
+<p><strong>IT Hardware Implementer</strong> Stratford &amp; Canary Wharf; Chichester - June-August 2011; March 2012 </p>
+
+<blockquote>
+<p>Working as part of the installation team to prepare, build, install and test the IT hardware for two new branches and one refurbishment. Liaising and building relationships with external contractors; taking an active role in problem determination and resolution, escalating issues to and working with Lead Installer and Central Systems teams where appropriate; completing systems delivery in accordance with agreed schedule to ensure successful occupation and store opening.</p>
+</blockquote>
+
+<h3 id="johnlewisheadofcateringdepartment">John Lewis Head of Catering Department</h3>
+
+<p><strong>Web Applications Developer</strong> May-August 2009 </p>
+
+<blockquote>
+<p>A self-initiated project to develop a web-based application to simplify a significant amount of Catering administration work, with the aim of reducing the amount of time spent by team members on excessively-complicated tasks. Presenting proposal to Head of Catering team; working with Head of Catering team and Catering teams at three trial branches to determine requirements for system and desired methods of work; training trial branch teams; tailoring system according to feedback from all users. Working individually to design, develop and complete the system within agreed time constraints. </p>
+</blockquote>
+
+<h3 id="johnlewissheffield">John Lewis Sheffield</h3>
+
+<p><strong>Various Positions</strong> July 2002-Present (Except April-August &#8217;03, May-August &#8217;09, June-August &#8217;11 &amp; March &#8217;12) </p>
+
+<blockquote>
+<p><strong>Front-of-House Team Leader &amp; Catering Assistant</strong> (Except dates shown below): Working with other Team Leaders and management team to implement department business plan. Systems trainer and SST liaison. Responsible for Partner training and development; monitoring department performance against targets; team supervision and resource planning; management of staffing budgets; mentoring and supporting new members of staff through induction; Branch Forum representative; providing outstanding customer service; large proportion of department&#8217;s administrative work; maintaining standards of cleanliness, hygiene, health and safety, to ensure compliance with respective legislation; maintaining ticketing and merchandising standards.<br/>
+<strong>Gift List Advisor</strong> (May 2010-October 2010): Responsible for improving communication across department and streamlining working methods; coaching colleagues on systems; increasing awareness of performance against targets. Core responsibilities include registering and working with customers throughout lists, handling queries and solving any problems which arise; using systems and working with other departments to source items; processing credit card applications and handling enquiries regarding JL Financial Services.<br/>
+<strong>EHT Selling Partner</strong> (October-December 2010): Establishing customer requirements, suggesting products and closing sales; sourcing stock and processing customer orders; promoting JL.com; ensuring high merchandising standards; actively coaching colleagues on areas of stock selection; offering suggestions for improving department results. </p>
+</blockquote>
+
+<h3 id="underscoreapps">Underscore Apps</h3>
+
+<p><strong>Owner and Developer</strong> August 2009-Present </p>
+
+<blockquote>
+<p>Independent iOS and Mac development with two shipping applications: IssuesHub, a Mac-native implementation of Github&#8217;s issue tracker; and Loops, a music practice app for iPhone and iPod Touch.. Concept, development, testing, documentation and implementation, in addition to offering first line technical support to users. Active member of the developer community. Open-sourced multiple projects with ongoing development and support. Work with web services and APIs to deliver applications.</p>
+</blockquote>
+
+<h2 id="interests">Interests</h2>
+
+<blockquote>
+<p><strong>Music</strong> Previously long-term member of local orchestra; leader of the percussion section for six years, responsible for teaching and coaching the other players of the section. Continues to play recreationally.<br/>
+<strong>Photography</strong> Following degree studies, has maintained a significant interest in photography, continuing to practice and arranging exhibitions of work produced.<br/>
+<strong>Sports</strong> Avid fan of a wide array of sports, in addition to playing for a local cricket team. Head administrator of an American football website.</p>
+</blockquote>
+
+<h2 id="skills">Skills</h2>
+
+<blockquote>
+<p><strong>Leadership and coaching</strong> Endeavours to take a leading role in the team, passing on skills and knowledge whilst encouraging and instilling appropriate ideals in fellow team members.<br/>
+<strong>Holistic approach</strong> Able and eager to apply outside interests and abilities to all facets of work where appropriate and beneficial.<br/>
+<strong>Interpersonal skills</strong> Good-natured team member, who establishes strong relationships with both peers and superiors through approachability, openness, and an oft-required injection of levity. </p>
+</blockquote>
+
+<h3 id="referencesavailableonrequest">References available on request</h3>
+
+<h3 id="sourcecodesamplesavailableathttp:github.comowainhunt">Source code samples available at <a href="http://github.com/owainhunt">http://github.com/owainhunt</a></h3>
+
+    </div>
+  </div> <!-- End wrapper -->
+</body>
+</html>
