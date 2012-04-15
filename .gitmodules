@@ -1,0 +1,9 @@
+[submodule "UAGithubEngine"]
+	path = UAGithubEngine
+	url = git@github.com:owainhunt/UAGithubEngine.git
+[submodule "UAKit"]
+	path = UAKit
+	url = git@github.com:owainhunt/UAKit.git
+[submodule "UAShared"]
+	path = UAShared
+	url = git@github.com:owainhunt/UAShared.git
