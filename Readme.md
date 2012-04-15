@@ -1,5 +1,5 @@
 #Owain R Hunt
-
+77 Hallam Grange Rise, Sheffield, S10 4BE | 07775 926058 | owainhunt@btinternet.com 
 >*An enthusiastic and hard-working graduate who is equally comfortable working individually or as part of a team. Highly adaptable, excels at performing under pressure, leading and motivating peers to pursue success. Both creative and technically-minded, presenting logical and inventive solutions to any problems which arise. Quick to learn and driven to be successful whatever the challenge.*
 
 ##Education
