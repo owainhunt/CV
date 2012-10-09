@@ -18,6 +18,10 @@
 **Changework Coordinator** September 2012-Present
 >Gathering requests from selling department managers for maintenance and fixture moves, planning and coordinating delivery of work with Maintenance and Visual Merchandising teams. Updating CAD floor plans to ensure accuracy.
 
+###Underscore Apps
+**Owner and Developer** August 2009-Present  
+>Independent iOS and Mac development with two shipping applications: IssuesHub, a Mac-native implementation of GitHub's issue tracker; and Loops, a music practice app for iPhone and iPod Touch. Concept, development, testing, documentation and implementation, in addition to offering first line technical support to users. Active member of the developer community. Open-sourced multiple projects with ongoing development and support. Work with web services and APIs to deliver applications.
+
 ##Previous Experience
 ###John Lewis Retail Development Systems
 **IT Hardware Implementer** Stratford & Canary Wharf; Chichester - June-August 2011; March 2012  
@@ -32,10 +36,6 @@
 >**Front-of-House Team Leader & Catering Assistant** (Except dates shown below): Working with other Team Leaders and management team to implement department business plan. Systems trainer and SST liaison. Responsible for Partner training and development; monitoring department performance against targets; team supervision and resource planning; management of staffing budgets; mentoring and supporting new members of staff through induction; Branch Forum representative; providing outstanding customer service; large proportion of department's administrative work; maintaining standards of cleanliness, hygiene, health and safety, to ensure compliance with respective legislation; maintaining ticketing and merchandising standards.  
 >**Gift List Advisor** (May 2010-October 2010): Responsible for improving communication across department and streamlining working methods; coaching colleagues on systems; increasing awareness of performance against targets. Core responsibilities include registering and working with customers throughout lists, handling queries and solving any problems which arise; using systems and working with other departments to source items; processing credit card applications and handling enquiries regarding JL Financial Services.  
 >**EHT Selling Partner** (October-December 2010): Establishing customer requirements, suggesting products and closing sales; sourcing stock and processing customer orders; promoting JL.com; ensuring high merchandising standards; actively coaching colleagues on areas of stock selection; offering suggestions for improving department results.  
-
-###Underscore Apps
-**Owner and Developer** August 2009-Present  
->Independent iOS and Mac development with two shipping applications: IssuesHub, a Mac-native implementation of Github's issue tracker; and Loops, a music practice app for iPhone and iPod Touch. Concept, development, testing, documentation and implementation, in addition to offering first line technical support to users. Active member of the developer community. Open-sourced multiple projects with ongoing development and support. Work with web services and APIs to deliver applications.
 
 ##Interests
 >**Music** Previously long-term member of local orchestra; leader of the percussion section for six years, responsible for teaching and coaching the other players of the section. Continues to play recreationally.  
