@@ -9,7 +9,6 @@
 **A-Levels** General Studies A, Psychology B, Maths (Mechanics) C, Theatre Studies C  
 **GCSEs** Seven A*, two B, one C
 
-##Work Experience
 ##Current Positions
 ###John Lewis Sheffield
 **Systems Support & Training Partner** September 2012-Present
