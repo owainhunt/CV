@@ -10,6 +10,15 @@
 **GCSEs** Seven A*, two B, one C
 
 ##Work Experience
+##Current Positions
+###John Lewis Sheffield
+**Systems Support & Training Partner** September 2012-Present
+>Overseeing and maintaining branch systems to ensure continued operation. Working with selling departments to train staff on all aspects of systems operation, and handles any issues that arise. Liaise with Head Office teams on systems issues and new technology rollouts.
+
+**Changework Coordinator** September 2012-Present
+>Gathering requests from selling department managers for maintenance and fixture moves, planning and coordinating delivery of work with Maintenance and Visual Merchandising teams. Updating CAD floor plans to ensure accuracy.
+
+##Previous Experience
 ###John Lewis Retail Development Systems
 **IT Hardware Implementer** Stratford & Canary Wharf; Chichester - June-August 2011; March 2012  
 >Working as part of the installation team to prepare, build, install and test the IT hardware for two new branches and one refurbishment. Liaising and building relationships with external contractors; taking an active role in problem determination and resolution, escalating issues to and working with Lead Installer and Central Systems teams where appropriate; completing systems delivery in accordance with agreed schedule to ensure successful occupation and store opening.
