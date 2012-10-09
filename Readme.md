@@ -48,7 +48,7 @@
 **Interpersonal skills** Good-natured team member, who establishes strong relationships with both peers and superiors through approachability, openness, and an oft-required injection of levity.  
 
 ###References available on request
-###Source code samples available at [http://github.com/owainhunt](http://github.com/owainhunt)
+###Open-source code at [http://github.com/owainhunt](http://github.com/owainhunt)
 
 
 
