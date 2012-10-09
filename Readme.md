@@ -35,7 +35,7 @@
 
 ###Underscore Apps
 **Owner and Developer** August 2009-Present  
->Independent iOS and Mac development with two shipping applications: IssuesHub, a Mac-native implementation of Github's issue tracker; and Loops, a music practice app for iPhone and iPod Touch.. Concept, development, testing, documentation and implementation, in addition to offering first line technical support to users. Active member of the developer community. Open-sourced multiple projects with ongoing development and support. Work with web services and APIs to deliver applications.
+>Independent iOS and Mac development with two shipping applications: IssuesHub, a Mac-native implementation of Github's issue tracker; and Loops, a music practice app for iPhone and iPod Touch. Concept, development, testing, documentation and implementation, in addition to offering first line technical support to users. Active member of the developer community. Open-sourced multiple projects with ongoing development and support. Work with web services and APIs to deliver applications.
 
 ##Interests
 >**Music** Previously long-term member of local orchestra; leader of the percussion section for six years, responsible for teaching and coaching the other players of the section. Continues to play recreationally.  
