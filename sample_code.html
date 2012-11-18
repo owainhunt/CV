@@ -37,8 +37,8 @@
 		<li>For remote attributes to be mirrored locally, the local attribute must use the same name as the remote attribute, adjusted for case. For example, <code>my_object_attribute</code> on the remote, and <code>myObjectAttribute</code> locally.</li>
 		<li>The value of remote attributes whose names would conflict with methods or properties on <code>NSObject</code> or <code>NSManagedObject</code> are stored locally with the prefix <code>remoteObject</code>. For example, <code>id</code> becomes <code>remoteObjectID</code> and <code>description</code> becomes <code>remoteObjectDescription</code>.</li>
 		</ul></li>
-		<li><p>Allows developers to use the conventions of the relevant environments (e.g. Rails, iOS).</p></li>
-		<li><p>Fully documented in source files.</p></li>
+		<li>Allows developers to use the conventions of the relevant environments (e.g. Rails, iOS).</li>
+		<li>Fully documented in source files.</li>
 		<li><p>Example usage when paired with <code>UAGithubEngine</code>. The following code makes an API call and either creates or updates an <code>NSManagedObject</code> for the relevant entity from the returned data, adding it to an array for future use:</p>
 
 		<pre>
