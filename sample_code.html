@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Owain R Hunt - Sample Code</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="without-description">
+        <h1>Owain R Hunt</h1>
+      </header>
+      <section>
+		<h3><a href="https://github.com/owainhunt/UAKit/blob/master/UAKit/UATableNavigationController.m">UATableNavigationController</a></h3>
+
+		<ul>
+		<li>Collection of classes forming a Mac control with similar functionality to <code>UINavigationController</code> on iOS.</li>
+		<li>Intended to present a navigation stack similar to many iOS apps, useful for drill-down interfaces.</li>
+		<li>Provides methods to animate between table views, prompted by either single or double clicks.</li>
+		<li>Provides delegate methods for row single and double clicks.</li>
+		</ul>
+
+		<h3><a href="https://github.com/owainhunt/UAGithubEngine">UAGithubEngine</a></h3>
+
+		<ul>
+		<li>Complete Objective-C wrapper around Github&#8217;s API.</li>
+		<li>Supports both Mac and iOS.</li>
+		<li>Makes full use of modern language features such as blocks and ARC.</li>
+		</ul>
+
+		<h3><a href="https://github.com/owainhunt/UAShared/blob/master/UAShared/NSManagedObjectContext%2BUtilities.m">NSManagedObjectContext+Utilities</a></h3>
+
+		<ul>
+		<li><code>NSManagedObjectContext</code> category for working with JSON retrieved by a web service, provided the local data store is configured following a number of conventions:
+
+		<ul>
+		<li>The remote must use underscore case for its attributes; camel case must be used locally.</li>
+		<li>For remote attributes to be mirrored locally, the local attribute must use the same name as the remote attribute, adjusted for case. For example, <code>my_object_attribute</code> on the remote, and <code>myObjectAttribute</code> locally.</li>
+		<li>The value of remote attributes whose names would conflict with methods or properties on <code>NSObject</code> or <code>NSManagedObject</code> are stored locally with the prefix <code>remoteObject</code>. For example, <code>id</code> becomes <code>remoteObjectID</code> and <code>description</code> becomes <code>remoteObjectDescription</code>.</li>
+		</ul></li>
+		<li><p>Allows developers to use the conventions of the relevant environments (e.g. Rails, iOS).</p></li>
+		<li><p>Relies on included categories.</p></li>
+		<li><p>Fully documented in source files.</p></li>
+		<li><p>Example usage when paired with <code>UAGithubEngine</code>. The following code makes an API call and either creates or updates an <code>NSManagedObject</code> for the relevant entity from the returned data, adding it to an array for future use:</p>
+
+		<pre>
+NSMutable Array *managedObjects = [@[] mutableCopy];
+[[UAGithubEngine newWithStoredCredentials] repository:[repository fullPath] success:^(id response){
+    	[managedObjects addObject:[self.managedObjectContext managedObjectWithEntityName:@&quot;IHRepository&quot; fromDictionary:[response firstObject]]];
+} failure:^(NSError *error){
+    NSLog(@&quot;%@&quot;, error);
+}];
+		</pre></li>
+		</ul>
+
+		<h3><a href="https://github.com/owainhunt/Cloudbacked/blob/master/Cloudbacked/CBManagedObjectModelParser.m">CBManagedObjectModelParser</a></h3>
+
+		<ul>
+		<li>Parses <code>NSManagedObjectModel</code> instances to provide an <code>NSDictionary</code>-based representation of a data structure.</li>
+		<li>Provides a method to create Rails models based on an <code>NSManagedObjectModel</code> instance.</li>
+		<li>Used to ensure uniformity between a local data structure and a web service.</li>
+		<li>Works well when used hand-in-hand with <code>NSManagedObjectContext+Utilities</code>.</li>
+		</ul>
+
+      </section>
+    </div>
+    <footer>
+      <p>Project maintained by <a href="https://github.com/owainhunt">owainhunt</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
