@@ -10,12 +10,9 @@
 **GCSEs** Seven A*, two B, one C
 
 ##Current Positions
-###John Lewis Sheffield
-**Systems Support & Training Partner** September 2012-Present
->Overseeing and maintaining branch systems to ensure continued operation. Working with selling departments to train staff on all aspects of systems operation, and handles any issues that arise. Liaise with Head Office teams on systems issues and new technology rollouts.
-
-**Changework Coordinator** September 2012-Present
->Gathering requests from selling department managers for maintenance and fixture moves, planning and coordinating delivery of work with Maintenance and Visual Merchandising teams. Updating CAD floor plans to ensure accuracy.
+###John Lewis IT
+**Technical Implementer, MCS ePOS** January 2013-Present
+>Rolling out a new point-of-sale system throughout the division as part of the implementation team. Working with branch and head office Partners, in both technical and retail arenas, to ensure a smooth conversion. Writing scripts and applications to automate key elements of the conversion process. 
 
 ###Underscore Apps
 **Owner and Developer** August 2009-Present  
@@ -31,10 +28,12 @@
 >Self-initiated project to develop a web-based application to simplify a significant amount of Catering administration work. Presenting proposal to Head of Catering team; working with Head of Catering team and Catering teams at trial branches to determine requirements for system; training trial branch teams; tailoring system according to feedback from users. Working individually to design, develop and complete the system within agreed time constraints. 
 
 ###John Lewis Sheffield
-**Various Positions** July 2002-Present (Except April-August '03, May-August '09, June-August '11 & March '12)  
->**Front-of-House Team Leader & Catering Assistant** (Except dates shown below): Working with other Team Leaders and management team to implement department business plan. Systems trainer and SST liaison. Responsible for staff training and development; monitoring department performance; team supervision and resource planning; management of staffing budgets; providing outstanding customer service; large proportion of department's administrative work; maintaining compliance with relevant legislation; maintaining ticketing and merchandising standards.  
->**Gift List Advisor** (May 2010-October 2010): Responsible for improving communication across department and streamlining working methods. Registering and working with customers throughout lists, handling queries and solving any problems; working with other departments to source items; promoting JL Financial Services.  
->**EHT Selling Partner** (October-December 2010): Establishing customer requirements, suggesting products and closing sales; ensuring high merchandising standards; actively coaching colleagues on areas of stock selection; offering suggestions for improving department results.  
+**Various Positions** 2002-Present (Except dates covered by other positions as detailed)  
+>**Systems Support & Training Partner** (Sept '12-Jan '13): Overseeing and maintaining branch systems to ensure continued operation. Working with selling departments to train staff on all aspects of systems operation, and handles any issues that arise. Liaise with Head Office teams on systems issues and new technology rollouts.
+>**Changework Coordinator** (Sept-Oct '12): Gathering requests from selling department managers for maintenance and fixture moves, planning and coordinating delivery of work with Maintenance and Visual Merchandising teams. Updating CAD floor plans to ensure accuracy.
+>**EHT Selling Partner** (Oct-Dec '10): Establishing customer requirements, suggesting products and closing sales; ensuring high merchandising standards; actively coaching colleagues on areas of stock selection; offering suggestions for improving department results. 
+>**Gift List Advisor** (May '10-Oct '10): Responsible for improving communication across department and streamlining working methods. Registering and working with customers throughout lists, handling queries and solving any problems; working with other departments to source items; promoting JL Financial Services.  
+>**Front-of-House Team Leader & Catering Assistant** (All other periods): Working with other Team Leaders and management team to implement department business plan. Systems trainer and SST liaison. Responsible for staff training and development; monitoring department performance; team supervision and resource planning; management of staffing budgets; providing outstanding customer service; large proportion of department's administrative work; maintaining compliance with relevant legislation; maintaining ticketing and merchandising standards. 
 
 ##Interests
 >**Music** Previously long-term member of local orchestra; leader of the percussion section for six years, responsible for teaching and coaching the other players of the section. Continues to play recreationally.  
